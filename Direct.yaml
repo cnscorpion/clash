@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,sproutgigs.com
   - DOMAIN,ad.10010.com
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
@@ -48,4 +49,4 @@ payload:
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,upaiyun.com
   - DOMAIN-KEYWORD,wb_ad
-  - DOMAIN-KEYWORD,sproutgigs
+  - DOMAIN-KEYWORD,sproutgigs,DIRECT
