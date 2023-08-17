@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,koodomobile.ca
   - DOMAIN-SUFFIX,koodomobile.com
   - DOMAIN-SUFFIX,ol.epicgames.com
+  - DOMAIN-SUFFIX,paypal.com  
   - DOMAIN-SUFFIX,staticfile.org
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,upaiyun.com
