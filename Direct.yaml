@@ -50,6 +50,5 @@ payload:
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,upaiyun.com
   - DOMAIN-KEYWORD,wb_ad
-  - DOMAIN-KEYWORD,sproutgigs,DIRECT
-  - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,sproutgigs
+  - DOMAIN-KEYWORD,paypal
