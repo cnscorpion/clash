@@ -1,3 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,sproutgigs.com
-  - DOMAIN-SUFFIX,paypal.com  
+  - DOMAIN-SUFFIX,sproutgigs.com,DIRECT
+  - DOMAIN-SUFFIX,paypal.com,DIRECT
+  - DOMAIN-KEYWORD,sproutgigs,DIRECT
